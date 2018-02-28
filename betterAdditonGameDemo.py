@@ -13,6 +13,6 @@ while numCorrect < 5:
         numCorrect += 1
     else:
         while true:
-        print("wrong")
+            print("wrong")
 
 print("you win!")
