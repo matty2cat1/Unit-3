@@ -12,7 +12,7 @@ while numCorrect < 5:
     if answer == num1 + num2:
         numCorrect += 1
     else:
-        while true:
+        while 1==1:
             print("wrong")
 
 print("you win!")
